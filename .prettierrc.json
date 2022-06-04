@@ -1,0 +1,13 @@
+{
+    "szerokość druku" : 100 ,
+    "TabSzerokość" : 2 ,
+    "useTabs" : fałsz ,
+    "pół" : prawda ,
+    "singleQuote" : prawda ,
+    "trailingComma" : " es5 " ,
+    "Rozstaw nawiasów" : prawda ,
+    "jsxBracketSameLine" : false ,
+    "arrowParens" : " unikaj " ,
+    „proseWrap” : „ zawsze ”
+  }
+  
