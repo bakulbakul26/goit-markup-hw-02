@@ -1,0 +1,32 @@
+.higlight { 
+   color: #2196F3;
+   font-family: raleway;
+   font-weight:700;
+   size: 26px;
+   
+}
+
+
+.menu{
+    font-family: Roboto;
+    size: 14px;
+    width: 500;
+
+}
+.catalog{
+    color:#757575;
+    font-family:Roboto;
+    font-weight:400;
+    font-size:16px;
+    line-height:30px;
+    filter:3%
+}
+.titleimg{
+    color:#212121;
+    font-family:Roboto;
+    font-weight: 700;
+    font-size:18px;
+    line-height:36px;
+    filter:6%
+}
+a{ }
