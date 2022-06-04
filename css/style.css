@@ -12,8 +12,8 @@
     size: 14px;
     width: 500;
 }
-.menu:hover
-.menu:focus{
+.button:hover
+.button:focus{
     color: #2196F3;
 
 }
