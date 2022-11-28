@@ -35,7 +35,6 @@ body {
   text-align: center;
 }
 
-
 .navigation button {
   font-weight: 500;
   font-size: 16px;
@@ -43,7 +42,6 @@ body {
   letter-spacing: 3%;
   color: #212121;
   border-width: 0px;
-  
   cursor: pointer;
 }
 
@@ -70,5 +68,8 @@ body {
 }
 
 .article h2 {
-  font-weight:700 ;
+  font-weight: 700;
+}
+.foto h2 {
+  text-align: center;
 }
