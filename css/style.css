@@ -26,6 +26,15 @@
   letter-spacing: 0.03em;
 }
 
+.logo3 {
+  color: var(--white);
+  font-family: raleway;
+  font-weight: 700;
+  size: 26px;
+  line-height: 30.52px;
+  letter-spacing: 0.03em;
+}
+
 .link {
   font-family: roboto;
   font-weight: 500;
@@ -70,10 +79,17 @@
   font-size: 16px;
   line-height: 30px;
   letter-spacing: 0.06em;
-  color: var(--black-text);
-
+  color: var(--white);
   cursor: pointer;
+  width: 200px;
+  height: 50px;
+  border-top: 430px;
+  border-left: 700px;
+  border-radius: 4px;
+  
 }
+
+
 
 .navigation {
   font-family: roboto;
@@ -81,29 +97,41 @@
   font-size: 16px;
   line-height: 26px;
   letter-spacing: 0.03em;
-  border-width: 0px;
-  cursor: pointer;
+  
   background-color: var(--blac-section);
   color: var(--white);
 }
 
 .navigatio-portfolio {
+ 
+  
+}
+
+.list {
+  list-style-type: none;
+  width: 121px;
+  height: 38px;
+  border-top: 174px;
+  border-left: 961px;
+  
+  
+}
+
+.list button{
+  background-color:#F5F4FA;
+  border:0;
+  border-radius: 4px;
+   width: 77px;
+  height: 26px;
+  border-top: 180px;
+  border-left:983px;
   font-family: roboto;
   font-weight: 500;
   font-size: 16px;
   line-height: 26px;
-  letter-spacing: 0.03em;
-  border-width: 0px;
-  text-align: center;
+  letter-spacing: 0.03em; 
 }
 
-.navigatio-portfolio button {
-  width: 91px;
-  height: 38px;
-  top: 174px;
-  left: 862px;
-  border-radius: 4px;
-}
 
 .navigation-portfolio button:hover,
 .navigation-portfolio button:focus {
@@ -151,12 +179,20 @@
   letter-spacing: 0.03em;
 }
 
+.foto h2 {
+  font-family: roboto;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 42.19px;
+  letter-spacing: 0.03em;
+}
+
 .foto2 h2 {
   font-family: roboto;
   font-weight: 700;
   font-size: 36px;
   line-height: 42.19px;
-  letter-spacing: 0.03;
+  letter-spacing: 0.03em;
 }
 
 .foto2 {
@@ -171,7 +207,7 @@
   font-family: Roboto;
   color: var(--black-text);
   font-weight: 700;
-  font-size: 18px;
+  font-size: 16px;
   line-height: 2;
   letter-spacing: 0.03em;
 }
@@ -206,6 +242,6 @@
 
 .foter {
   background-color: var(--blac-section);
-}
+font-style: normal;}
 
 /*zadanie 3*/
