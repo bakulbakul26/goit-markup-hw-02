@@ -88,7 +88,6 @@
   border-radius: 4px;
   background-color: var(--blue);
 }
-}
 
 
 
@@ -102,7 +101,6 @@
   background-color: var(--blac-section);
   color: var(--white);
 }
-
 
 .list {
   list-style-type: none;
@@ -144,9 +142,14 @@
   left: 700px;
   border-radius: 4px;
   border-width: 0px;
-  
+}
 
-
+.navigation button:hover,
+.navigation button:focus {
+  color: #fff;
+  background-color: var(--blue);
+  cursor: pointer;
+}
 
 .writing {
   font-family: roboto;
